@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tran Thanh Binh
 - 📫Welcome to my personal page
-- 💞️ I have interests in front-end programming, interface design, and software testing
+- 💞️ I have interests in front-end programming, user interface design, and software testing
 - 📫 Contact me: thanhbinh.bent@gmail.com
 
 <!---
