@@ -3,8 +3,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭  &nbsp; I am a Software Test Engineer and bachelor's degree in the Management Information System.<br>
-- 🎓  &nbsp; I am focusing on learning to become a Software Tester, with skills in interface programming and database design analysis.<br>
+- 🔭  &nbsp; I am a Test Engineer and bachelor's degree in the Management Information System.<br>
+- 🎓  &nbsp; I am focusing on learning to become a Software Tester, with skills in front-end programming, database design analysis, and system.<br>
 - 💼  &nbsp; I have a passion for learning new technologies and finding innovative solutions.<br>
 - 🌱  &nbsp; I expect to ensure that products meet the needs of end-users to the best of my abilities.<br>
 - ✍️  &nbsp; I am constantly seeking opportunities to enhance my knowledge and skills in the field.<br>
@@ -14,9 +14,9 @@
 
 - 💻 &nbsp; Python | JavaScript/TypeScript
 - 🌐 &nbsp; ReactJS/NextJS | HTML | CSS
-- 🛢 &nbsp; MySQL | SQL Server | MongoDB | Firebase
-- 🔧 &nbsp; Visual Studio | PyCharm | Visual Studio code | Git | Bitbucket | Jira | Confluence
-- 🖥 &nbsp; Adobe Photoshop | Adobe Premiere | Figma | Balsamiq
+- 🛢 &nbsp; MySQL | SQL Server | MongoDB
+- 🐞 Testing tools: Postman/Bruno, JMeter
+- 🔎 Testing frameworks/libs: Playwright, Selenium
 
 <br>
 <h3> 🤝🏻 Connect with Me </h3>
