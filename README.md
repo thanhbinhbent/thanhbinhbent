@@ -1,28 +1,91 @@
-<h2> Hey there! I'm Binh (thanhbinhbent). <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+Binh Tran
+=========
 
-<h3> 👨🏻‍💻 About Me </h3>
+**Software Testing & Development**
 
-- 🔭  &nbsp; I am a Test Engineer and bachelor's degree in the Management Information System.<br>
-- 🎓  &nbsp; I am focusing on learning to become a Software Tester, with skills in front-end programming, database design analysis, and system.<br>
-- 💼  &nbsp; I have a passion for learning new technologies and finding innovative solutions.<br>
-- 🌱  &nbsp; I expect to ensure that products meet the needs of end-users to the best of my abilities.<br>
-- ✍️  &nbsp; I am constantly seeking opportunities to enhance my knowledge and skills in the field.<br>
-- ☕  &nbsp; I believe that continuous learning and improvement are essential for professional growth.
-<br>
-<h3>🛠 Tech Stack</h3>
+💡 Passionate about **test automation, software quality, and scalable systems**
 
-- 💻 &nbsp; Python | JavaScript/TypeScript
-- 🌐 &nbsp; ReactJS/NextJS | HTML | CSS
-- 🛢 &nbsp; MySQL | SQL Server | MongoDB
-- 🐞 Testing tools: Postman/Bruno, JMeter
-- 🔎 Testing frameworks/libs: Playwright, Selenium
+📩 thanhbinh.bent@gmail.com | 🌐 [GitHub](https://github.com/thanhbinhbent) | 💼 [LinkedIn](https://linkedin.com/in/thanhbinhbent)
 
-<br>
-<h3> 🤝🏻 Connect with Me </h3>
-<p align="center">  
-&nbsp; <a href="https://www.linkedin.com/in/thanhbinhbent/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:thanhbinh.bent@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+🛠 Skills
+---------
 
-⭐️ Visit my blog:<a href="https://thanhbinhbent.com" target="_blank"> https://thanhbinhbent.com</a>
+-   **Programming:** JavaScript/TypeScript, Python
+
+-   **Test Automation:** Playwright, Selenium, WebdriverIO
+
+-   **Web Development:** ReactJS, NodeJS, NextJS
+
+-   **Tools:** Git, Jira, Confluence, Test Management Tools
+
+💼 Experience
+-------------
+
+### **Quality Engineer @** [**SAP**](https://jobs.sap.com/go/SAP_Labs_Vietnam/9283701)
+
+*(Oct 2024 -- Present)*
+
+-   Develop **test automation frameworks** for enterprise applications integrated with SAP's ERP systems.
+
+-   Ensure **end-to-end software quality** through rigorous testing.
+
+### **Software Test Engineer @** [**DevSamurai**](https://www.devsamurai.com/en/)
+
+*(Jun 2023 -- Sep 2024)*
+
+-   Built **test automation frameworks** and conducted manual testing for web applications in an agile environment.
+
+-   Ensured application quality and seamless **Jira integration**.
+
+🚀 Projects
+-----------
+
+### **Church Management Platform** (*Laravel, PHP, MySQL*)
+
+A system for managing church operations, member records, and events.
+
+-   Developed full-stack features with **Laravel (PHP)** and **MySQL**.
+
+-   Designed and optimized database structures.
+
+-   Implemented **role-based access control** and secure authentication.
+
+-   Analyzed and refined system features based on clergy requirements.
+
+### **BHShop E-commerce & Store Management** (*NodeJS, React, MongoDB*)
+
+A platform with integrated store management and warehouse tracking.
+
+-   Designed & implemented database architecture for products, orders, and users.
+
+-   Built a warehouse management dashboard with **real-time inventory tracking**.
+
+-   Developed frontend modules for browsing, checkout, and buyer-seller interactions.
+
+-   Optimized API performance and MongoDB queries for scalability.
+
+### **UELDaily Mobile App** (*React Native, C# .NET Core, Firebase*)
+
+A multi-utility platform for students and universities.
+
+-   Developed backend services using **.NET Core** and **LINQ**.
+
+-   Optimized system features for a seamless user experience.
+
+-   Managed development tasks and ensured smooth frontend integration with Firebase.
+
+### And ... other confidential projects.
+
+🎓 Education
+------------
+
+-   **Master's in Information System (Ongoing)** - Ho Chi Minh University of Science (VNUHCM)
+
+-   **Bachelor's in Management Information System** - Ho Chi Minh University of Economics and Law (VNUHCM)
+
+📢 Let's Connect
+----------------
+
+🌐 [GitHub](https://github.com/thanhbinhbent)\
+💼 [LinkedIn](https://linkedin.com/in/thanhbinhbent)\
+📩 thanhbinh.bent@gmail.com
