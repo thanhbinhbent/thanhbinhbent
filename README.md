@@ -7,16 +7,16 @@ Binh Tran
 
 📩 thanhbinh.bent@gmail.com | 🌐 [GitHub](https://github.com/thanhbinhbent) | 💼 [LinkedIn](https://linkedin.com/in/thanhbinhbent)
 
-🛠 Skills
+🛠️ Key Tech Stacks  
 ---------
+Here’s an overview of my tech stack that I actively work with, ranging from intermediate to advanced levels. However, I’m always open to learning new tools and frameworks to adapt and grow in my work.
 
--   **Programming:** JavaScript/TypeScript, Python
+| 🛡️ Testing Automation | 💻 Programming Languages | 🌐 Frontend | ⚙️ Backend | 🛢️ Database | 🤝 Collaboration |
+|----------------------|----------------------|------------|-----------|------------|----------------|
+| <p align="center"><img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40"><br><b>Playwright</b></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"><br><b>JavaScript</b></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"><br><b>Next.js</b></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"><br><b>Django</b></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"><br><b>MySQL</b></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" height="40"><br><b>Jira</b></p> |
+| <p align="center"><img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="40" height="40"><br><b>Selenium</b></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"><br><b>TypeScript</b></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"><br><b>React</b></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"><br><b>Node.js (Express)</b></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"><br><b>PostgreSQL</b></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" width="40" height="40"><br><b>Confluence</b></p> |
+| <p align="center"><img src="https://webdriver.io/img/webdriverio.png" width="40" height="40"><br><b>WebdriverIO</b></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"><br><b>Python</b></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"><br><b>Tailwind CSS</b></p> |  | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"><br><b>MongoDB</b></p> |  |
 
--   **Test Automation:** Playwright, Selenium, WebdriverIO
-
--   **Web Development:** ReactJS, NodeJS, NextJS
-
--   **Tools:** Git, Jira, Confluence, Test Management Tools
 
 💼 Experience
 -------------
