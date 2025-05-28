@@ -79,9 +79,9 @@ A multi-utility platform for students and universities.
 🎓 Education
 ------------
 
--   **Master's in Information System (Ongoing)** - Ho Chi Minh University of Science (VNUHCM)
+-   **Master's in Information System (Ongoing)** - University of Science (VNUHCM)
 
--   **Bachelor's in Management Information System** - Ho Chi Minh University of Economics and Law (VNUHCM)
+-   **Bachelor's in Management Information System** - University of Economics and Law (VNUHCM)
 
 📢 Let's Connect
 ----------------
