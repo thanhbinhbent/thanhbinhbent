@@ -1,91 +1,62 @@
-Binh Tran
-=========
+<div align="center">
 
-**Software Testing & Development**
+# Binh Tran
+**Software Development Engineer in Test (SDET) | Full-stack Developer**
 
-💡 Passionate about **test automation, software quality, and scalable systems**
+<a href="mailto:thanhbinh.bent@gmail.com"><img src="https://img.shields.io/badge/Email-thanhbinh.bent%40gmail.com-red?style=flat-square&logo=gmail"></a>
+<a href="https://linkedin.com/in/thanhbinhbent"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
 
-📩 thanhbinh.bent@gmail.com | 🌐 [GitHub](https://github.com/thanhbinhbent) | 💼 [LinkedIn](https://linkedin.com/in/thanhbinhbent)
+<br/>
 
-🛠️ Key Tech Stacks  
----------
-Here’s an overview of my tech stack that I actively work with, ranging from intermediate to advanced levels. However, I’m always open to learning new tools and frameworks to adapt and grow in my work.
+> *Passionate about scalable automation frameworks, software quality, and system architecture.*
 
-| 🛡️ Testing Automation | 💻 Programming Languages | 🌐 Frontend | ⚙️ Backend | 🛢️ Database | 🤝 Collaboration |
-|----------------------|----------------------|------------|-----------|------------|----------------|
-| <p align="center"><img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40"><br><b>Playwright</b><br><i>Level: Proficient in practice</i></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"><br><b>JavaScript</b><br><i>Level: Proficient in practice</i></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"><br><b>Next.js</b><br><i>Level: Used in real projects</i></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"><br><b>Django</b><br><i>Level: Basic understanding</i></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"><br><b>MySQL</b><br><i>Level: Used in real projects</i></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" height="40"><br><b>Jira</b><br><i>Level: Advanced or in-depth</i></p> |
-| <p align="center"><img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="40" height="40"><br><b>Selenium</b><br><i>Level: Proficient in practice</i></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"><br><b>TypeScript</b><br><i>Level: Proficient in practice</i></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"><br><b>React</b><br><i>Level: Used in real projects</i></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"><br><b>Node.js (Express)</b><br><i>Level: Used in real projects</i></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"><br><b>PostgreSQL</b><br><i>Level: Used in real projects</i></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" width="40" height="40"><b>Confluence</b><br><i>Level: Advanced or in-depth</i></p> |
-| <p align="center"><img src="https://webdriver.io/img/webdriverio.png" width="40" height="40"><br><b>WebdriverIO</b><br><i>Level: Proficient in practice</i></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"><br><b>Python</b><br><i>Level: Used in real projects</i></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"><br><b>Tailwind CSS</b><br><i>Level: Used in real projects</i></p> |  | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"><br><b>MongoDB</b><br><i>Level: Used in real projects</i></p> |  |
+</div>
 
+---
 
-💼 Experience
--------------
+### 🛠️ Technical Competencies
 
-### **Quality Engineer @** [**SAP**](https://jobs.sap.com/go/SAP_Labs_Vietnam/9283701)
+**Automation & QA**
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-EA5906?style=flat-square&logo=webdriverio&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-*(Oct 2024 -- Present)*
+**Languages & Core**
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
--   Develop **test automation frameworks** for enterprise applications integrated with SAP's ERP systems.
+**Full-stack Development**
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
--   Ensure **end-to-end software quality** through rigorous testing.
+---
 
-### **Software Test Engineer @** [**DevSamurai**](https://www.devsamurai.com/en/)
+### 💼 Professional Summary
 
-*(Jun 2023 -- Sep 2024)*
+I specialize in building robust test automation frameworks for enterprise-grade applications (ERP) and developing scalable web solutions.
 
--   Built **test automation frameworks** and conducted manual testing for web applications in an agile environment.
+* **Automation Architecture:** Proficient in designing E2E frameworks using Playwright and Selenium.
+* **ERP Integration:** Experience testing complex integrations within SAP ecosystems.
+* **Full-stack Development:** Hands-on experience with modern stacks (MERN, Next.js) and database optimization.
 
--   Ensured application quality and seamless **Jira integration**.
+---
 
-🚀 Projects
------------
+### 🚀 Selected Projects
 
-### **Church Management Platform** (*Laravel, PHP, MySQL*)
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **Church Management System** | `PHP (Laravel)` `MySQL` | Role-based access control system for managing member records and events. Optimized database structure for large-scale queries. |
+| **E-commerce & WMS** | `Node.js` `React` `MongoDB` | Integrated platform with real-time inventory tracking and warehouse management dashboard. |
+| **UELDaily App** | `.NET Core` `React Native` | Multi-utility mobile platform for university students with Firebase integration. |
 
-A system for managing church operations, member records, and events.
+---
 
--   Developed full-stack features with **Laravel (PHP)** and **MySQL**.
+### 🎓 Education
 
--   Designed and optimized database structures.
-
--   Implemented **role-based access control** and secure authentication.
-
--   Analyzed and refined system features based on clergy requirements.
-
-### **BHShop E-commerce & Store Management** (*NodeJS, React, MongoDB*)
-
-A platform with integrated store management and warehouse tracking.
-
--   Designed & implemented database architecture for products, orders, and users.
-
--   Built a warehouse management dashboard with **real-time inventory tracking**.
-
--   Developed frontend modules for browsing, checkout, and buyer-seller interactions.
-
--   Optimized API performance and MongoDB queries for scalability.
-
-### **UELDaily Mobile App** (*React Native, C# .NET Core, Firebase*)
-
-A multi-utility platform for students and universities.
-
--   Developed backend services using **.NET Core** and **LINQ**.
-
--   Optimized system features for a seamless user experience.
-
--   Managed development tasks and ensured smooth frontend integration with Firebase.
-
-### And ... other confidential projects.
-
-🎓 Education
-------------
-
--   **Master's in Information System (Ongoing)** - University of Science (VNUHCM)
-
--   **Bachelor's in Management Information System** - University of Economics and Law (VNUHCM)
-
-📢 Let's Connect
-----------------
-
-🌐 [GitHub](https://github.com/thanhbinhbent)\
-💼 [LinkedIn](https://linkedin.com/in/thanhbinhbent)\
-📩 thanhbinh.bent@gmail.com
+* **M.Sc. Information Systems** (Candidate) - VNUHCM, University of Science
+* **B.Bus. Management Information Systems** - VNUHCM, University of Economics and Law
